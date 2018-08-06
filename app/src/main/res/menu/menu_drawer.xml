@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_go_category"
+            android:checked="true"
+            android:icon="@drawable/ic_category"
+            android:title="@string/menu_category" />
+
+        <item
+            android:id="@+id/menu_go_latest"
+            android:checked="false"
+            android:icon="@drawable/ic_latest"
+            android:title="@string/menu_latest" />
+
+        <item
+            android:id="@+id/menu_favourite"
+            android:checked="false"
+            android:icon="@drawable/ic_favourite"
+            android:title="@string/menu_favourite" />
+
+        <!--<item
+            android:id="@+id/menu_category_selection"
+            android:checked="false"
+            android:icon="@drawable/ic_favourite"
+            android:title="@string/menu_category_selection" />-->
+        <item
+            android:id="@+id/menu_recent"
+            android:checked="false"
+            android:icon="@drawable/ic_recent"
+            android:title="@string/menu_recent" />
+
+        <item
+            android:id="@+id/menu_play"
+            android:checked="false"
+            android:icon="@drawable/ic_play"
+            android:title="@string/menu_select_player" />
+
+        <item
+            android:id="@+id/menu_go_profile"
+            android:checked="false"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/menu_profile" />
+
+        <item
+            android:id="@+id/navigation_subheader"
+            android:title="@string/menu_communicate">
+            <menu>
+                <item
+                    android:id="@+id/live_chat"
+                    android:checked="false"
+                    android:icon="@drawable/ic_chat_black_24dp"
+                    android:title="Live Chat" />
+
+                <item
+                    android:id="@+id/menu_go_about"
+                    android:checked="false"
+                    android:icon="@drawable/ic_about"
+                    android:title="@string/menu_about" />
+
+                <item
+                    android:id="@+id/menu_facebook"
+                    android:checked="false"
+                    android:icon="@drawable/facebook"
+                    android:title="@string/Facebook"
+
+
+                    />
+
+                <item
+                    android:id="@+id/menu_web"
+                    android:checked="false"
+                    android:icon="@drawable/ic_web"
+                    android:title="@string/Website"
+
+                    />
+
+
+                <item
+                    android:id="@+id/menu_go_privacy"
+                    android:checked="false"
+                    android:icon="@drawable/ic_privacy"
+                    android:title="@string/menu_privacy" />
+
+
+            </menu>
+        </item>
+    </group>
+</menu>

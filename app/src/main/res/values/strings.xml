@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">Live PlanetTV</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <!--left navigation drawer-->
+    <string name="menu_home">Home</string>
+    <string name="menu_category">Live</string>
+    <string name="menu_latest">Latest</string>
+    <string name="menu_favourite">Favourite</string>
+    <string name="menu_category_selection">Remove Category</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_recent">Recent</string>
+    <string name="menu_select_player">Select Player</string>
+    <string name="menu_communicate">Communicate</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_rate_app">Rate App</string>
+    <string name="menu_share_app">Share App</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="Facebook">Facebook Page</string>
+    <string name="Website">Website</string>
+
+    //---live chat
+    <string name="live_chat">Live Chat</string>
+
+    <string name="no_item_found">No Item Found</string>
+    <string name="you_may">You may also like</string>
+
+    <string name="version">Version</string>
+    <string name="author">Author</string>
+    <string name="company">Company</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+
+    <string name="report_channel">Report Channel</string>
+    <string name="submit">Submit</string>
+
+    <string name="signup">Sign up</string>
+    <string name="login">Login</string>
+    <string name="skip">Skip</string>
+
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="remember">Remember Me</string>
+    <string name="already_account">Already have an account? Sign Up</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="already_account_sign_in">Already have an account? Login</string>
+
+    <!-- connection message -->
+    <string name="conne_msg1">No Network Connection!!!</string>
+    <string name="conne_msg2">Please connect to working Internet connection</string>
+    <string name="nodata">No Data Found</string>
+    <string name="update">Update</string>
+    <string name="logout_msg">Are you sure you want to logout?</string>
+
+    <string name="share_msg">Hi,I would like to share Live Planet Tv which is used to watch live tv free please download it from Google Play Store Free Here \n https://play.google.com/store/apps/details?id=</string>
+    <string name="login_msg">You need to login first</string>
+
+    <string name="favourite_add">Favourite has been saved</string>
+    <string name="favourite_remove">Favourite has been removed</string>
+    <string name="favourite_already_exist">This item is already in your favourite list</string>
+
+    <string name="admob_app_id">ca-app-pub-5951702132699469~6506413195</string> <!-- Change AdMob Banner Id -->
+    <string name="admob_banner_id">ca-app-pub-5951702132699469/9176772828</string> <!-- Change AdMob Banner Id -->
+    <string name="admob_interstitial_id">ca-app-pub-2590720503901919/1728902925</string> <!-- Change AdMob Interstitial Id -->
+
+    <string name="home_latest">Latest Channel</string>
+    <string name="featured">Featured Channel</string>
+    <string name="more">More</string>
+
+    <string name="text_no_item">No item available.</string>
+    <string name="tag_line">Play your favourite channel</string>
+
+    <!-- youtube api key -->
+    <string name="youtube_api_key">AIzaSyAYJwy6nzCFqgr5LtihRI3YuVBb_34aprw</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <string name="exit">Exit</string>
+    <string name="exit_msg">Are You Sure You Want To Quit?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_name">MyDefaultPrefrences</string>
+    <string name="appKey">kid_r1GetVPdM</string>
+    <string name="appSecrate">307e20110656476fb343f3f7e3728181</string>
+    <string name="flurry_api_key">5M2CXWMGZZ4K3FM5S6HQ</string>
+    <string name="flurry_adunit_id">205924</string>
+
+    ////testing strings.
+    <string name="ctg_itm">ctg_itm_123</string>
+    <string name="sngl_chnl">SingleChannelActivity</string>
+
+
+    <!-- player list strings -->
+    <string name="mx_player">MX Player</string>
+    <string name="xmtv_Player">XMTV Player</string>
+    <string name="three_twenty_one_player">321 Player</string>
+    <!--<string name="video_player">Video Player</string>-->
+    <string name="vlc_player">VLC Player</string>
+    <string name="webview_player">WebVideoCast</string>
+    <string name="local_cast_player">LocalCast</string>
+    <string name="default_player">Default Player</string>
+
+    <string name="app_id">4F8B3483</string>
+    <string name="cast_app_name">GoogleCastPlayer</string>
+    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="list_of_videos">Select a Video Clip</string>
+    <string name="casting_to_device">Casting to %1$s</string>
+    <string name="ok">OK</string>
+    <string name="no_device">(No Device Selected)</string>
+    <string name="error">Error</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="no_video_found">No video was found</string>
+    <string name="about_app">About Cast Videos</string>
+    <string name="version2">CastVideos: %1$s</string>
+    <string name="session_reconnection_attempt">Attempting to recover previous
+        session&#8230;</string>
+    <string name="live">Live</string>
+
+    <!-- Error messages -->
+    <!-- onApplicationConnectionFailed() errors -->
+    <string name="failed_to_set_volume">Failed to set the volume</string>
+    <string name="failed_to_launch_app">Failed to launch application</string>
+    <string name="failed_to_set_mute">Failed to adjust the volume mute</string>
+    <string name="failed_to_find_app">The application you are trying to launch is not available on
+        your Chromecast device
+    </string>
+    <string name="failed_app_launch_timeout">The request to launch the application has timed out!
+    </string>
+    <string name="failed_to_play">Failed to start the playback of media</string>
+    <string name="failed_to_pause">Failed to pause the playback of media</string>
+    <string name="failed_to_connect">Could not connect to the device</string>
+    <string name="failed_to_seek">Failed to seek to the specified position on the remote device
+    </string>
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_unaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="connection_temp_lost">Connection to the cast device is temporarily lost</string>
+    <string name="connection_recovered">Connection to the cast device is recovered</string>
+    <string name="connection_lost_retry">Connection to the cast device has been temporarily lost.
+        Application is trying to recover connection, please try again later
+    </string>
+    <string name="connection_lost">No connection to the cast device exist</string>
+    <string name="failed_to_perform_action">Sorry, ran into issues performing the task you wanted
+    </string>
+    <string name="oops">Oops</string>
+
+    <!-- Preferences -->
+    <string name="prefs_header_application">Application Behavior</string>
+    <string name="prefs_header_application_summary">Control how the application behaves on the TV
+    </string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <!-- Tabs -->
+    <string name="tab_videos_title">Videos</string>
+    <string name="tab_music_title">Songs</string>
+    <string name="tab_photos_title">Photos</string>
+
+    <!-- ShowCaseView -->
+    <string name="touch_to_cast">Touch to cast videos to your TV</string>
+
+    <string name="transition_image">transition-image</string>
+</resources>

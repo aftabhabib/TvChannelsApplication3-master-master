@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_rounded"
+    android:paddingTop="30dp"
+    android:paddingBottom="30dp"
+    android:paddingRight="50dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="50dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_category"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:padding="@dimen/item_offset"
+        android:background="@color/bg"/>
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_corner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:id="@+id/btn_done"/>
+</LinearLayout>
