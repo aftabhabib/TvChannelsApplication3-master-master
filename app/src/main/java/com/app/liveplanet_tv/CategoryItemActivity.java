@@ -102,12 +102,12 @@ public class CategoryItemActivity extends AuthenticateParentActivity {
     private String mAdSpaceName = "BANNER_ADSPACE";
     private FlurryAdInterstitial mFlurryAdInterstitial = null;
     private String mAdSpaceNameIntertial = "intertitialAd";
-    private AppLovinIncentivizedInterstitial myIncent;
-    AppLovinAdDisplayListener objectImplementingAdLoadListener;
+    //private AppLovinIncentivizedInterstitial myIncent;
+    //AppLovinAdDisplayListener objectImplementingAdLoadListener;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        AppLovinSdk.initializeSdk(this);
+        /*AppLovinSdk.initializeSdk(this);
         myIncent = AppLovinIncentivizedInterstitial.create(this);
         myIncent.preload(null);
         myIncent.preload(new AppLovinAdLoadListener() {
@@ -140,7 +140,7 @@ public class CategoryItemActivity extends AuthenticateParentActivity {
             public void failedToReceiveAd(int i) {
                 Log.e(" @@@ "," failed video : "+i);
             }
-        });
+        });*/
 
 // Preload call using a new load listener
         /*if(myIncent.isAdReadyToDisplay()){
@@ -257,27 +257,6 @@ public class CategoryItemActivity extends AuthenticateParentActivity {
         }catch (Exception c)
         {
             c.printStackTrace();
-        }
-    }
-    public void playRewarded(View view){
-        // Check to see if a rewarded video is available.
-        if(myIncent.isAdReadyToDisplay()){
-            // A rewarded video is available.  Call the show method with the listeners you want to use.
-            // We will use the display listener to preload the next rewarded video when this one finishes.
-            myIncent.show(this, null, null, new AppLovinAdDisplayListener() {
-                @Override
-                public void adDisplayed(AppLovinAd appLovinAd) {
-                    // A rewarded video is being displayed.
-                }
-                @Override
-                public void adHidden(AppLovinAd appLovinAd) {
-                    // A rewarded video was closed.  Preload the next video now.  We won't use a load listener.
-                    myIncent.preload(null);
-                }
-            });
-        }
-        else{
-            // No ad is currently available.  Perform failover logic...
         }
     }
     private class getCategory extends AsyncTask<String, Void, String> {

@@ -1,39 +1,39 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
+ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:1:1-10:12
 	package
-		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:2:5-40
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
+		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:4:5-30
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
+		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:1:11-69
+		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
+		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
-INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
+ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:6:5-73
 	android:targetSdkVersion
-		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:6:41-70
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
+		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:6:41-70
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:6:15-40
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
-		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml
+		ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
+		INJECTED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml
 application
-ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\androidsaripaarmaster\src\main\AndroidManifest.xml:8:5-32
+ADDED from E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\androidsaripaarmaster\src\main\AndroidManifest.xml:8:5-32

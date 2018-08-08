@@ -41,7 +41,7 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.ItemRo
     public void onBindViewHolder(final ItemRowHolder holder, final int position) {
         final ItemCategory singleItem = dataList.get(position);
         holder.text.setText(singleItem.getCategoryName());
-        Picasso.with(mContext).load(Constant.IMAGE_PATH + singleItem.getCategoryImage()).placeholder(R.drawable.header_top_logo).into(holder.image);
+        Picasso.with(mContext).load(Constant.IMAGE_PATH + singleItem.getCategoryImage()).placeholder(R.drawable.loading_logo).into(holder.image);
         holder.lyt_parent.setOnFocusChangeListener(new View.OnFocusChangeListener() {
             @Override
             public void onFocusChange(View v, boolean hasFocus) {

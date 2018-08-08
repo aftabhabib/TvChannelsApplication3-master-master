@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\vitamio\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\Bhavik\AndroidProjects\01 DEMO\01 TV\TvChannelsApplication3-master-master\vitamio\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\vitamio\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\Bhavik\AndroidProjects\01 DEMO\01 TV\myDEMO\vitamio\src\debug\shaders"/></dataSet></merger>

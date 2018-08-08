@@ -44,7 +44,7 @@ public class ChannelAdapter extends RecyclerView.Adapter<ChannelAdapter.ItemRowH
     public void onBindViewHolder(final ItemRowHolder holder, final int position) {
         final ItemChannel singleItem = dataList.get(position);
         holder.text.setText(singleItem.getChannelName());
-        Picasso.with(mContext).load(Constant.IMAGE_PATH + singleItem.getImage()).placeholder(R.drawable.header_top_logo).into(holder.image);
+        Picasso.with(mContext).load(Constant.IMAGE_PATH + singleItem.getImage()).placeholder(R.drawable.loading_logo).into(holder.image);
         holder.lyt_parent.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

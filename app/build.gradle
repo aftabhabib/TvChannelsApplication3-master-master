@@ -35,7 +35,7 @@ android {
                                 onesignal_google_project_number: "193887042160"]
         minSdkVersion 17
         targetSdkVersion 26
-        versionCode 3
+        versionCode 4
         versionName "1.0.11"
         multiDexEnabled true
         javaCompileOptions {
